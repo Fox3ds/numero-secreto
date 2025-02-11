@@ -1,7 +1,7 @@
 
 
 let listaSorteio = [];
-let maxNum = 100;
+let maxNum = 50;
 let numeroSecreto = Aleatorio();
 let tentativas = 1;
 
